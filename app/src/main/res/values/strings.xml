@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">APP01_103590054</string>
+    <string name="score">成績:</string>
+    <string name="input_score">請輸入整數成績</string>
+    <string name="button">成績轉換</string>
+    <string name="grade">等第:</string>
+    <string name="error">輸入分數應介於【0..100】</string>
+
+</resources>
